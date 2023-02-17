@@ -14,4 +14,15 @@ Password : angga
 
 Username : rohan
 Password : rohan
+
+
+Pegawai:
+Username : karina
+Password : karina
+
+Username : reza
+Password : reza
+
+Username : zaenal
+Password : zaenal
 =======================
