@@ -1,3 +1,6 @@
+before you wanna run this web-app, you must import the database first and then there you go :)
+
+
 Account
 =======================
 Admin:
